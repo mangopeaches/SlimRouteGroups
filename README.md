@@ -6,7 +6,7 @@ Wrapper for slim router which simplifies route definitions and organization.
 
 ## Installation
 ```bash
-composer install mangopeaches/slim-route-groups
+composer require mangopeaches/slim-route-groups
 ```
 
 ## The Problem

@@ -1,5 +1,5 @@
 {
-    "name": "mangopeach/slim-route-groups",
+    "name": "mangopeaches/slim-route-groups",
     "description": "Wrapper for slim router which simplifies route definitions and organization.",
     "type": "library",
     "license": "MIT",
