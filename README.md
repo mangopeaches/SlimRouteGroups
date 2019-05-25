@@ -4,6 +4,11 @@
 
 Wrapper for slim router which simplifies route definitions and organization.
 
+## Installation
+```bash
+composrt install mangopeaches/slim-route-groups
+```
+
 ## The Problem
 
 If your organization is using the Slim Framework for any decent sized API project you likely have a lot of routes.
