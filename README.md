@@ -4,6 +4,10 @@
 
 Wrapper for slim router which simplifies route definitions and organization.
 
+## Demo App
+
+For a usable demo implementation, see [SlimRouteGroupsDemo](https://github.com/mangopeaches/SlimRouteGroupsDemo)
+
 ## Installation
 ```bash
 composer require mangopeaches/slim-route-groups
